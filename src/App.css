@@ -1,0 +1,16 @@
+.App {
+  background: #000;
+  height: 100vh;
+  text-align: center;
+  display: grid;
+  place-content: center;
+}
+main{
+  border: 1px solid #fff;
+  aspect-ratio: 9/16;
+  height: 80vh ;
+  border-radius:3px;
+  max-width:375px;
+  width: 100vh;
+  
+}
