@@ -7,7 +7,7 @@ function App() {
   return (
     <div className="App">
     <main>
-    TikTok clone
+    TikTok clone mobile
     </main>
       
     </div>
